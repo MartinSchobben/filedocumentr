@@ -1,5 +1,5 @@
 Package: filedocumentr
-Title: File documentation for data directories with R Markdown
+Title: File documentation for data directories
 Version: 0.0.0.9000
 Authors@R: 
     person(
