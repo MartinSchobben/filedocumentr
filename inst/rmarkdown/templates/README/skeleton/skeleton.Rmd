@@ -1,0 +1,19 @@
+---
+title: Documentation of files in `r basename(getwd())`
+date: "`r format(Sys.time(), '%d %B, %Y')`"
+output: 
+  github_document: default
+  pdf_document: default
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+- method:
+- author:
+- machine:
+- lab:
+- file type:
+- sample ID:

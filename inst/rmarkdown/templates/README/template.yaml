@@ -1,0 +1,4 @@
+name: README
+description: >
+   This a standard README file to be used to document metadate associated with files in a data directory.
+create_dir: FALSE
