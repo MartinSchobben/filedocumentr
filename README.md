@@ -15,7 +15,7 @@ You can install the released version of filedocumentr from github with:
 
 ``` r
 # library(devtools)
-install_github("filedocumentr")
+install_github("MartinSchobben/filedocumentr")
 ```
 
 ## Example
