@@ -6,8 +6,11 @@
 \usage{
 use_filedocumentr(name = "README")
 }
+\arguments{
+\item{name}{Name of the RMD file (default = \verb{"README}).}
+}
 \value{
-Rmd file with template for common metadata associated with  data files.
+Rmd template file for annotating common metadata associated with data files.
 }
 \description{
 Create an overview file of the data consisted within the directory by
@@ -16,5 +19,7 @@ documenting some minimal information, such as author, date of data generation
 }
 \examples{
 # generate README in current directory
+\dontrun{
 use_filedocumentr()
+}
 }
